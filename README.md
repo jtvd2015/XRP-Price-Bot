@@ -2,7 +2,7 @@
 
 
 
-A Python bot that sends twice-daily XRP portfolio updates, market stats, news headlines, sentiment analysis, and a fun crypto fact to your email.
+A Python bot that sends twice-daily XRP portfolio updates, market stats, news headlines, sentiment analysis, and a random fun fact to your email.
 
 
 
