@@ -44,7 +44,7 @@ A Python bot that sends twice-daily XRP portfolio updates, market stats, news he
 
 &nbsp;   PORTFOLIO1\_NAME=YourName
 
-&nbsp;   PORTFOLIO1\_AMOUNT=1709.11263
+&nbsp;   PORTFOLIO1\_AMOUNT=XXX
 
 &nbsp;   PORTFOLIO1\_EMAIL=your\_email@example.com
 
