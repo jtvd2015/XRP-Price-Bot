@@ -1,0 +1,18 @@
+# Python  
+__pycache__/  
+*.pyc  
+*.pyo  
+*.pyd  
+.venv/  
+env/  
+venv/  
+ENV/  
+  
+# Secrets  
+.env  
+config.py  
+  
+# IDE/project files  
+.idea/  
+*.iml  
+*.vscode/
